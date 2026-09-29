@@ -1,0 +1,18 @@
+{
+    "weapons": [
+        {
+            "name": "BAL-27",
+            "category": "AR",
+            "fire_interval": "72",
+            "bullet_velocity": "1168",
+            "damage_profile": "27-25-21-19",
+            "range_profile": "0-16.5-26.4-42.9-inf",
+            "chest_multiplier": "1.2",
+            "upper_arm_multiplier": "1.06",
+            "lower_arm_multiplier": "1.06",
+            "stomach_multiplier": "1",
+            "leg_multiplier": "0.9",
+            "gunsmith": "Quartermaster Suppressor\nCrown-H3 Barrel\nSandbar Heavy Stock\nHighground Grip\n60 Round Reload"
+        }
+    ]
+}

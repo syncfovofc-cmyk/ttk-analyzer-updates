@@ -1,0 +1,32 @@
+{
+    "weapons": [
+        {
+            "name": "Test Gun",
+            "fire_interval": "60",
+            "category": "SMG",
+            "bullet_velocity": "800",
+            "damage_profile": "35-30-25",
+            "range_profile": "0-20-35-inf",
+            "chest_multiplier": "1.2",
+            "upper_arm_multiplier": "1.0",
+            "lower_arm_multiplier": "1.15",
+            "stomach_multiplier": "1.1",
+            "leg_multiplier": "1.0",
+            "gunsmith": "Test Gunsmith"
+        },
+        {
+            "name": "BAL-27",
+            "category": "AR",
+            "fire_interval": "72",
+            "bullet_velocity": "1168",
+            "damage_profile": "27-25-21-19",
+            "range_profile": "0-15.5-24.8-40.3-inf",
+            "chest_multiplier": "1.2",
+            "upper_arm_multiplier": "1.06",
+            "lower_arm_multiplier": "1.06",
+            "stomach_multiplier": "1",
+            "leg_multiplier": "0.9",
+            "gunsmith": "Polarfire-S\nCrown-H3 Barrel\nClarent Light Stock\nHighground Grip\n60 Round Reload"
+        }
+    ]
+}
