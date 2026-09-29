@@ -2,8 +2,8 @@
     "weapons": [
         {
             "name": "Test Gun",
-            "fire_interval": "60",
             "category": "SMG",
+            "fire_interval": "90",
             "bullet_velocity": "800",
             "damage_profile": "35-30-25",
             "range_profile": "0-20-35-inf",
